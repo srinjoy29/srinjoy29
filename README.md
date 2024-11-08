@@ -1,5 +1,4 @@
-![logo](![Conversion1](https://github.com/user-attachments/assets/b4db803f-ff67-4008-9082-53d501adc4a1)
-)
+![logo](![Conversion1](https://github.com/user-attachments/assets/b4db803f-ff67-4008-9082-53d501adc4a1))
 <h1 align="center">Hi 👋, I'm Srinjoy Das</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align="right" alt="Coder GIF"  width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
@@ -14,7 +13,7 @@
 
 - 📫 How to reach me **srinjoydas0212@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1j1hUKaJz5eOXNnteDvJEhzzNTY8CvJjj/view?usp=sharing](https://drive.google.com/file/d/1j1hUKaJz5eOXNnteDvJEhzzNTY8CvJjj/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15Nvdx-5H6VFPi_yxiccnL75vTUWeuhyS/view?usp=sharing](https://drive.google.com/file/d/15Nvdx-5H6VFPi_yxiccnL75vTUWeuhyS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
