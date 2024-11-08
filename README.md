@@ -1,4 +1,5 @@
-![logo](https://github.com/srinjoy29/Srinjoy29/blob/main/github%20banner.png)
+![logo](![Conversion1](https://github.com/user-attachments/assets/b4db803f-ff67-4008-9082-53d501adc4a1)
+)
 <h1 align="center">Hi 👋, I'm Srinjoy Das</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align="right" alt="Coder GIF"  width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
@@ -9,7 +10,7 @@
 
 - 🌱 I’m currently learning **DSA,EXPRESS JS , NODE JS**
 
-- 👨‍💻 All of my projects are available at [https://srinjoydasportfolio.netlify.app/](https://srinjoydasportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://srinjoy.online/](https://srinjoy.online/)
 
 - 📫 How to reach me **srinjoydas0212@gmail.com**
 
