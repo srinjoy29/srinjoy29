@@ -1,5 +1,8 @@
-![logo](![Conversion1](https://github.com/user-attachments/assets/b4db803f-ff67-4008-9082-53d501adc4a1))
-<h1 align="center">Hi 👋, I'm Srinjoy Das</h1>
+
+
+![1722343001321](https://github.com/user-attachments/assets/1f18689f-4c3b-4740-89fd-0350f691e281)
+<h1 align="center">Hi 👋, I'm Srinjoy Das</h1>!
+
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align="right" alt="Coder GIF"  width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 
