@@ -3,12 +3,12 @@
 ![1722343001321](https://github.com/user-attachments/assets/1f18689f-4c3b-4740-89fd-0350f691e281)
 <h1 align="center">Hi 👋, I'm Srinjoy Das</h1>
 
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A passionate FullStack Developer</h3>
 <img align="right" alt="Coder GIF"  width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinjoy29&label=Profile%20views&color=0e75b6&style=flat" alt="srinjoy29" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce Sentient Analysis Project**
+- 🔭 I’m currently working on **Ecommerce Sentient Analysis Project - Final Year Major Project**
 
 - 👨‍💻 All of my projects are available at [https://srinjoy.online/](https://srinjoy.online/)
 
