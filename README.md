@@ -10,13 +10,18 @@
 
 - 🔭 I’m currently working on **Ecommerce Sentient Analysis Project**
 
-- 🌱 I’m currently learning **DSA, Next Js , Go **
-
 - 👨‍💻 All of my projects are available at [https://srinjoy.online/](https://srinjoy.online/)
 
 - 📫 How to reach me **srinjoydas0212@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15Nvdx-5H6VFPi_yxiccnL75vTUWeuhyS/view?usp=sharing](https://drive.google.com/file/d/15Nvdx-5H6VFPi_yxiccnL75vTUWeuhyS/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/15Nvdx-5H6VFPi_yxiccnL75vTUWeuhyS/view?usp=sharing](https://drive.google.com/file/d/16IjRIJRwRMT7WvaZBJcKZoHfptj62XyH/view?usp=drive_link)]
+
+- ### 🏆 Achievements:
+- 🥉 **2nd Runner-up** at **GRIET Hyderabad Hackathon Epitome 2025**  
+- 👨‍💻 My project **CodeFusion** was a finalist at **Hackfest 2024 IIT Dhanbad** among 260 teams  
+  **GitHub Repository:** [CodeFusion](https://github.com/srinjoy29/hackfest-access_denied.git)  
+- 👨‍💻 **First Hackathon** at **IIITDM HACKBYTE 2.0, a MLH Hackathon**  
+  **GitHub Repository:** [Albatrosses HAVE A RELAX](https://github.com/srinjoy29/Albatrosses-HAVE-A-RELAX.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
