@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **srinjoydas0212@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15Nvdx-5H6VFPi_yxiccnL75vTUWeuhyS/view?usp=sharing](https://drive.google.com/file/d/16IjRIJRwRMT7WvaZBJcKZoHfptj62XyH/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16IjRIJRwRMT7WvaZBJcKZoHfptj62XyH/view?usp=drive_link)
 
 - ### 🏆 Achievements:
 - 🥉 **2nd Runner-up** at **GRIET Hyderabad Hackathon Epitome 2025**  
