@@ -23,6 +23,40 @@
 - 👨‍💻 **First Hackathon** at **IIITDM HACKBYTE 2.0, a MLH Hackathon**  
   **GitHub Repository:** [Albatrosses HAVE A RELAX](https://github.com/srinjoy29/Albatrosses-HAVE-A-RELAX.git)
 
+  ## 🚀 Collaborative Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="250">
+      <a href="https://github.com/srinjoy29/hackfest-access_denied.git" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=srinjoy29&repo=hackfest-access_denied&theme=radical" alt="CodeFusion Repo"/>
+      </a>
+    </td>
+    <td align="center" width="250">
+      <a href="https://github.com/srinjoy29/Albatrosses-HAVE-A-RELAX.git" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=srinjoy29&repo=Albatrosses-HAVE-A-RELAX&theme=radical" alt="Albatrosses Repo"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250">
+      <a href="https://github.com/srinjoy29/your-collab-repo-3" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=srinjoy29&repo=your-collab-repo-3&theme=radical" alt="Project 3"/>
+      </a>
+    </td>
+    <td align="center" width="250">
+      <a href="https://github.com/srinjoy29/your-collab-repo-4" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=srinjoy29&repo=your-collab-repo-4&theme=radical" alt="Project 4"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/srinjoy-das-589a95206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srinjoy-das-589a95206" height="30" width="40" /></a>
