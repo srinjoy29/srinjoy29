@@ -29,26 +29,42 @@
 
 <table>
   <tr>
-    <td align="center" width="250">
+    <td align="center" width="400">
       <a href="https://github.com/srinjoy29/hackfest-access_denied.git" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=srinjoy29&repo=hackfest-access_denied&theme=radical" alt="CodeFusion Repo"/>
+        <img 
+          src="https://github-readme-stats.vercel.app/api/pin/?username=srinjoy29&repo=hackfest-access_denied&theme=radical" 
+          alt="CodeFusion Repo" 
+          style="width: 100%; height: auto; max-width: 400px;"
+        />
       </a>
     </td>
-    <td align="center" width="250">
+    <td align="center" width="400">
       <a href="https://github.com/srinjoy29/Albatrosses-HAVE-A-RELAX.git" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=srinjoy29&repo=Albatrosses-HAVE-A-RELAX&theme=radical" alt="Albatrosses Repo"/>
+        <img 
+          src="https://github-readme-stats.vercel.app/api/pin/?username=srinjoy29&repo=Albatrosses-HAVE-A-RELAX&theme=radical" 
+          alt="Albatrosses Repo" 
+          style="width: 100%; height: auto; max-width: 400px;"
+        />
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="250">
+    <td align="center" width="400">
       <a href="https://github.com/srinjoy29/your-collab-repo-3" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=srinjoy29&repo=your-collab-repo-3&theme=radical" alt="Project 3"/>
+        <img 
+          src="https://github-readme-stats.vercel.app/api/pin/?username=srinjoy29&repo=your-collab-repo-3&theme=radical" 
+          alt="Project 3" 
+          style="width: 100%; height: auto; max-width: 400px;"
+        />
       </a>
     </td>
-    <td align="center" width="250">
+    <td align="center" width="400">
       <a href="https://github.com/srinjoy29/your-collab-repo-4" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=srinjoy29&repo=your-collab-repo-4&theme=radical" alt="Project 4"/>
+        <img 
+          src="https://github-readme-stats.vercel.app/api/pin/?username=srinjoy29&repo=your-collab-repo-4&theme=radical" 
+          alt="Project 4" 
+          style="width: 100%; height: auto; max-width: 400px;"
+        />
       </a>
     </td>
   </tr>
