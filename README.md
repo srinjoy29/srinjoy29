@@ -23,7 +23,7 @@
 - 👨‍💻 **First Hackathon** at **IIITDM HACKBYTE 2.0, a MLH Hackathon**  
   **GitHub Repository:** [Albatrosses HAVE A RELAX](https://github.com/srinjoy29/Albatrosses-HAVE-A-RELAX.git)
 
-  ## 🚀 Collaborative Projects
+  ## 🚀 Collaborative Projects | Hackathon Projects
 
 <div align="center">
 
