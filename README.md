@@ -1,5 +1,5 @@
 
-![Conversion](https://github.com/user-attachments/assets/6c776c16-63da-4a25-a602-24d8fb7698ad)
+![Conversion](https://github.com/user-attachments/assets/5f5c1f12-148f-46ba-829f-27ae1dacfb60)
 
 <h1 align="center">Hi 👋, I'm Srinjoy Das</h1>
 
